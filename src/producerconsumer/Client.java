@@ -29,6 +29,9 @@ public class Client {
         t2.start();
         t3.start();
         t4.start();
+        t5.start();
+        t6.start();
+        t7.start();
 
 
     }
